@@ -70,6 +70,7 @@ h1 span{
     width: 23% !important;
     text-align: center;
     border-radius: 10px;
+    cursor: pointer;
 }
 .img11{
     width: 110px !important;
